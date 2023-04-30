@@ -60,7 +60,7 @@ export default {
         {name: "Rent a car", id: 4, value: 4,system: 'Website', href: 'https://gilespi.github.io/Rent-a-car/', src: require("@/assets/images/portfolio-1.jpg")},
         {name: "Portfolio", id: 5, value: 1, system: 'Website', href: 'https://gilespi.github.io/Portfolio/ ', src: require("@/assets/images/portfolio-6.png")},
         {name: "Hotel Resort", id: 6, value: 1, system: 'Website', src: ("https://media.architecturaldigest.com/photos/57e42de0fe422b3e29b7e78f/1:1/w_960,c_limit/JW_LosCabos_2015_MainExterior.jpg")},
-        {name: "Store Locator", id: 7, value: 7, system: 'Card', href: 'https://storelocator.cyclic.app/', src: (""https://bsscommerce.com/shopify/wp-content/uploads/2021/11/Top-10-Best-Store-Locator-Shopify-App-2022-cover-1.png"")},
+        {name: "Store Locator", id: 7, value: 7, system: 'Card', href: 'https://storelocator.cyclic.app/', src: ("https://bsscommerce.com/shopify/wp-content/uploads/2021/11/Top-10-Best-Store-Locator-Shopify-App-2022-cover-1.png")},
         {name: "Gadget Gallery", id: 8, value: 7, system: 'App', src: require("@/assets/images/portfolio-12.jpg")},
         {name: "Card Gallery", id: 9, value: 4, system: 'App', src: ("https://cnb1901.com/images/card-gallery-footer6.png")}
       ],
