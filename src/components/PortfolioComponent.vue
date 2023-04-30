@@ -54,7 +54,7 @@ export default {
   data () {
     return {
       list: [
-        {name: "StoreLocator", id: 7, value: 4, system: 'App', href: 'https://storelocator.cyclic.app/?#', src: require: ('https://bsscommerce.com/shopify/wp-content/uploads/2021/11/Top-10-Best-Store-Locator-Shopify-App-2022-cover-1.png')},
+        {name: "StoreLocator", id: 1, value: 4, system: 'App', href: 'https://storelocator.cyclic.app/?#', src: require: ('https://bsscommerce.com/shopify/wp-content/uploads/2021/11/Top-10-Best-Store-Locator-Shopify-App-2022-cover-1.png')},
         {name: "Indonesia", id: 2, value: 1, system: 'Website', href:'https://gilespi.github.io/Indonesia/ ', src: require("@/assets/images/portfolio-2.jpg")},
         {name: "Real Estate", id: 3, value: 1, system: 'Website', href: 'https://gilespi.github.io/Real-estate/', src: require("@/assets/images/portfolio-4.jpg")},
         {name: "Restaurant", id: 4, value: 4, system: 'Website', href: 'https://dev-example-ag.pantheonsite.io/home1/', src: require("@/assets/images/portfolio-10.jpg")},
