@@ -1,3 +1,7 @@
+# Portfolio
+Portfolio is designed in Vuetify js
+https://gilespi.github.io/newPortfolio/
+
 ### Project setup  
 npm install  
 
