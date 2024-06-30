@@ -20,7 +20,7 @@
 
               <p class="description">Enthusiastic and self-motivated web designer/developer with 3+ years of experience.<br>  Good front-end skills, loves to design perfect solutions with agile methods, clean code and the newest technologies.</p>
 
-            <v-btn small elevation="4" color="blue lighten-2" class="white--text mt-5 px-5 py-5" href="https://drive.google.com/file/d/1O8VmtOpujN8xvA_-hr0V6YFVtYWcPF8w/view?usp=sharing" target="_blank">Hire Me</v-btn>
+            <v-btn small elevation="4" color="blue lighten-2" class="white--text mt-5 px-5 py-5" href="https://drive.google.com/file/d/1M9FRMMZeGBBdF5tVdWHWp08aAZWx8NsV/view" target="_blank">Hire Me</v-btn>
             <v-btn small route to="/contact" elevation="4" color="indigo lighten-1" class="white--text mt-5 ml-5 px-5 py-5">CONTACT</v-btn>
 
             <v-col class="mt-10">
